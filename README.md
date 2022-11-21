@@ -23,7 +23,7 @@ PS C:\Users\HP\> $pip3 install -r requirements.txt
 PS C:\Users\HP\> $python3 main.py
 ```
 
-## 🩸 Demo
+## 🩸 Results
 <img src="Firebase.png" width="650px">
 
 ## 🎉 Credits
