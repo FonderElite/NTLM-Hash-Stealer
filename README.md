@@ -12,6 +12,7 @@
 
 ## Installation
 ```hs
-PS C:\Users\HP\Documents\Projects\Python>
+PS C:\Users\HP\> $git clone https://github.com/FonderElite/NTLM-Hash-Stealer/
 
+PS C:\Users\HP\> $pip3 install -r requirements.txt
 ```
