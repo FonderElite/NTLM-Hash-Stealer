@@ -8,17 +8,17 @@
 **Note:** This installs several files on your system (It's recommended to use a VM while testing). <br>
 **Brief-description:** Steals NTLM Hash and other credentials and outputs it to firebase.
 
-## ⚙️ Requirements
+## ⚙ Requirements
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## ⬇ Installation
+## 🩸 Installation
 ```hs
 PS C:\Users\HP\> $git clone https://github.com/FonderElite/NTLM-Hash-Stealer/
 
 PS C:\Users\HP\> $pip3 install -r requirements.txt
 ```
-## Usage
+## 🩸 Usage
 ```hs
 PS C:\Users\HP\> $python3 main.py
 ```
