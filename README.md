@@ -4,6 +4,7 @@
 [![Firebase](https://img.shields.io/badge/Made%20with-Firebase-FFA500.svg)](https://shields.io/)
 
 <img src="Malware.png" width="650px">
+**Note:** <p>This installs several files on your system.(It's recommended to use a VM while testing)</p>
 <p>Steals NTLM Hash and other credentials and outputs it to firebase</p>
 
 ## Requirements
@@ -20,3 +21,4 @@ PS C:\Users\HP\> $pip3 install -r requirements.txt
 ```hs
 PS C:\Users\HP\> $python3 main.py
 ```
+
