@@ -23,3 +23,7 @@ PS C:\Users\HP\> $pip3 install -r requirements.txt
 PS C:\Users\HP\> $python3 main.py
 ```
 
+## Credits
+<a href="https://github.com/skelsec/pypykatz"><img width="650px" src="https://user-images.githubusercontent.com/19204702/71646030-221fe200-2ce1-11ea-9e2a-e587ea4790d7.jpg"></a>
+
+
