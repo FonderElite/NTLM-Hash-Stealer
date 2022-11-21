@@ -5,8 +5,8 @@
 
 <img src="Malware.png" width="650px">
 
-**Note:** This installs several files on your system.(It's recommended to use a VM while testing)
-<p>Steals NTLM Hash and other credentials and outputs it to firebase</p>
+**Note:** This installs several files on your system (It's recommended to use a VM while testing).
+**Brief-description:** Steals NTLM Hash and other credentials and outputs it to firebase.
 
 ## Requirements
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
