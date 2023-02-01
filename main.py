@@ -49,6 +49,7 @@ else:
 
 
 firebase_admin.initialize_app(cred, {
+    #Change This to your databaseURL
     'databaseURL': "https://password-database-1a0d7-default-rtdb.firebaseio.com/"
 })
 
